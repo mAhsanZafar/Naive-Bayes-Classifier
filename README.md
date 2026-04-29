@@ -1,4 +1,4 @@
-# Naive Bayes Gender Classification
+# NameSuffixGenderClassifier
 
 A simple Naive Bayes classifier that predicts gender from the last two letters of a name. This project trains a Multinomial Naive Bayes model using character bigrams and provides a command-line interface for predictions.
 
